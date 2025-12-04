@@ -1,1 +1,1 @@
-![example image of run](usage.png)
+![example image of run](examplerun.png)
